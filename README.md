@@ -1,2 +1,3 @@
-# introducao-django-lucas
-Atividade da aula de Introdução ao Django.
+Atividade de Introdução ao Django.
+
+Página de confirmação de compra do Repassa, usando HTML e CSS da Sprint 4.
